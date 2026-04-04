@@ -1,0 +1,8 @@
+:root {
+    --accent-yellow: #facc15;
+    --dark-blue-bg: #0f172a;
+    --card-blue: #1e293b;
+}
+
+.border-accent { border-color: var(--accent-yellow); }
+.text-accent { color: var(--accent-yellow); }
