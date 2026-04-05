@@ -16,6 +16,14 @@ const staff = [
         foto:"",
     },
     {
+        name: "Felix Gilbert",
+        division: "PTI",
+        batch: "2026",
+        role: "Member",
+        github: "feliix-bert",
+        foto:"",
+    },
+    {
         name: "M. Aditia Putra Pratama",
         division: "PTI",
         batch: "2025",
@@ -23,7 +31,7 @@ const staff = [
         github: "aditia-prtm",
         foto:"",
     },
-      {
+    {
         name: "Alfinandra Rashyid Pratama",
         division: "PIP",
         batch: "2026",
