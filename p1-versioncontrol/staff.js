@@ -32,6 +32,7 @@ const staff = [
         foto:"foto/beemo.png",
     },
     {
+
         name: "Tegar Prasetyo",
         division: "PTI",
         batch: "2026",
@@ -39,11 +40,12 @@ const staff = [
         github: "tegarprasety0",
         foto:"",
     },{
-        name: "fachry imthiyaz",
+        name: "MUhammad fachry imthiyaz",
         division: "PTI",
         batch: "2026",
         role: "Member",
-        github: "yaigacor",
-        foto:"",
+        github: "fachry",
+        foto:"foto/fachry.png",
+
     }
 ];
